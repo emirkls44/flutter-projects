@@ -1,4 +1,4 @@
-# bolum23den_sonrasi
+# binstagram uygulaması
 
 A new Flutter project.
 
